@@ -1,5 +1,7 @@
 package com.android.foodwise;
 
+//branch test
+
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
@@ -70,6 +72,7 @@ public class MainActivity extends ActionBarActivity {
 	}
 
 	
+
 	/**
 	 * A placeholder fragment containing a simple view.
 	 */
